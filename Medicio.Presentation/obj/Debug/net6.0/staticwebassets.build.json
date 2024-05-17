@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "gyJmdi6bZjU84dJvI90Az3S9azIZ3sxCNbqzDyW+Ncw=",
+  "Source": "Medicio.Presentation",
+  "BasePath": "_content/Medicio.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Medicio.Presentation\\wwwroot",
+      "Source": "Medicio.Presentation",
+      "ContentRoot": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\wwwroot\\",
+      "BasePath": "_content/Medicio.Presentation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Medicio.Presentation.styles.css",
+      "SourceId": "Medicio.Presentation",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Medicio.Presentation",
+      "RelativePath": "Medicio.Presentation.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Medicio.Presentation.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Medicio.Presentation.bundle.scp.css",
+      "SourceId": "Medicio.Presentation",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Medicio.Presentation",
+      "RelativePath": "Medicio.Presentation.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Medicio.Presentation.bundle.scp.css"
+    }
+  ]
+}

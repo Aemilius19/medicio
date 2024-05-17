@@ -1,0 +1,534 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC5B9CF-0EFD-4C42-A215-1D9CAD4A3066}|Core\\Medicio.Domain\\Medicio.Domain.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\core\\medicio.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC5B9CF-0EFD-4C42-A215-1D9CAD4A3066}|Core\\Medicio.Domain\\Medicio.Domain.csproj|solutionrelative:core\\medicio.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A73005-CBF3-4848-9338-42A6ACC4DDC5}|Core\\Medicio.Application\\Medicio.Application.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\core\\medicio.application\\abstractions\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A73005-CBF3-4848-9338-42A6ACC4DDC5}|Core\\Medicio.Application\\Medicio.Application.csproj|solutionrelative:core\\medicio.application\\abstractions\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305B5160-E1ED-4037-BBFA-53B1F9809EEB}|Infrastructure\\Medicio.Persistence\\Medicio.Persistence.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\infrastructure\\medicio.persistence\\concretes\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305B5160-E1ED-4037-BBFA-53B1F9809EEB}|Infrastructure\\Medicio.Persistence\\Medicio.Persistence.csproj|solutionrelative:infrastructure\\medicio.persistence\\concretes\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305B5160-E1ED-4037-BBFA-53B1F9809EEB}|Infrastructure\\Medicio.Persistence\\Medicio.Persistence.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\infrastructure\\medicio.persistence\\concretes\\doctorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305B5160-E1ED-4037-BBFA-53B1F9809EEB}|Infrastructure\\Medicio.Persistence\\Medicio.Persistence.csproj|solutionrelative:infrastructure\\medicio.persistence\\concretes\\doctorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC5B9CF-0EFD-4C42-A215-1D9CAD4A3066}|Core\\Medicio.Domain\\Medicio.Domain.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\core\\medicio.domain\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC5B9CF-0EFD-4C42-A215-1D9CAD4A3066}|Core\\Medicio.Domain\\Medicio.Domain.csproj|solutionrelative:core\\medicio.domain\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A73005-CBF3-4848-9338-42A6ACC4DDC5}|Core\\Medicio.Application\\Medicio.Application.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\core\\medicio.application\\abstractions\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A73005-CBF3-4848-9338-42A6ACC4DDC5}|Core\\Medicio.Application\\Medicio.Application.csproj|solutionrelative:core\\medicio.application\\abstractions\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\Migrations\\20240517083405_createDoctorTable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Medicio.Persistence\\Migrations\\20240517083405_createDoctorTable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\areas\\admin\\views\\doctorslider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\areas\\admin\\views\\doctorslider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\areas\\admin\\views\\doctorslider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\areas\\admin\\views\\doctorslider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\areas\\admin\\controllers\\doctorslidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\areas\\admin\\controllers\\doctorslidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC5B9CF-0EFD-4C42-A215-1D9CAD4A3066}|Core\\Medicio.Domain\\Medicio.Domain.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\core\\medicio.domain\\models\\doctorslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC5B9CF-0EFD-4C42-A215-1D9CAD4A3066}|Core\\Medicio.Domain\\Medicio.Domain.csproj|solutionrelative:core\\medicio.domain\\models\\doctorslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305B5160-E1ED-4037-BBFA-53B1F9809EEB}|Infrastructure\\Medicio.Persistence\\Medicio.Persistence.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\infrastructure\\medicio.persistence\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305B5160-E1ED-4037-BBFA-53B1F9809EEB}|Infrastructure\\Medicio.Persistence\\Medicio.Persistence.csproj|solutionrelative:infrastructure\\medicio.persistence\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\areas\\admin\\views\\doctorslider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\areas\\admin\\views\\doctorslider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC5B9CF-0EFD-4C42-A215-1D9CAD4A3066}|Core\\Medicio.Domain\\Medicio.Domain.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\core\\medicio.domain\\medicio.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AC5B9CF-0EFD-4C42-A215-1D9CAD4A3066}|Core\\Medicio.Domain\\Medicio.Domain.csproj|solutionrelative:core\\medicio.domain\\medicio.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\medicio\\medicio.presentation\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{85D40A90-A45E-46EA-BC6E-73173C2B0261}|Medicio.Presentation\\Medicio.Presentation.csproj|solutionrelative:medicio.presentation\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\Migrations\\20240517070105_createDoctorTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Medicio.Persistence\\Migrations\\20240517070105_createDoctorTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\Migrations\\20240517065621_InitialCreatedOCTORSsLIDER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Medicio.Persistence\\Migrations\\20240517065621_InitialCreatedOCTORSsLIDER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\Migrations\\20240517065404_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Medicio.Persistence\\Migrations\\20240517065404_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Core\\Medicio.Domain\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Core\\Medicio.Domain\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Core\\Medicio.Domain\\Models\\Role.cs",
+              "RelativeToolTip": "Core\\Medicio.Domain\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:48:15.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\Concretes\\UserServices.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Medicio.Persistence\\Concretes\\UserServices.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\Concretes\\UserServices.cs",
+              "RelativeToolTip": "Infrastructure\\Medicio.Persistence\\Concretes\\UserServices.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:39:43.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Core\\Medicio.Application\\Abstractions\\IUserService.cs",
+              "RelativeDocumentMoniker": "Core\\Medicio.Application\\Abstractions\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Core\\Medicio.Application\\Abstractions\\IUserService.cs",
+              "RelativeToolTip": "Core\\Medicio.Application\\Abstractions\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:37:53.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240517083405_createDoctorTable2.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\Migrations\\20240517083405_createDoctorTable2.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Medicio.Persistence\\Migrations\\20240517083405_createDoctorTable2.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\Migrations\\20240517083405_createDoctorTable2.cs",
+              "RelativeToolTip": "Infrastructure\\Medicio.Persistence\\Migrations\\20240517083405_createDoctorTable2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:34:05.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "Medicio.Presentation\\Views\\Register\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T08:27:21.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Medicio.Presentation\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:27:05.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Views\\DoctorSlider\\Update.cshtml",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\Areas\\Admin\\Views\\DoctorSlider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Views\\DoctorSlider\\Update.cshtml",
+              "RelativeToolTip": "Medicio.Presentation\\Areas\\Admin\\Views\\DoctorSlider\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T07:52:39.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Views\\DoctorSlider\\Create.cshtml",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\Areas\\Admin\\Views\\DoctorSlider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Views\\DoctorSlider\\Create.cshtml",
+              "RelativeToolTip": "Medicio.Presentation\\Areas\\Admin\\Views\\DoctorSlider\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T07:31:27.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Views\\DoctorSlider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\Areas\\Admin\\Views\\DoctorSlider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Views\\DoctorSlider\\Index.cshtml",
+              "RelativeToolTip": "Medicio.Presentation\\Areas\\Admin\\Views\\DoctorSlider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T07:28:56.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoctorSliderController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Controllers\\DoctorSliderController.cs",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\Areas\\Admin\\Controllers\\DoctorSliderController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Controllers\\DoctorSliderController.cs",
+              "RelativeToolTip": "Medicio.Presentation\\Areas\\Admin\\Controllers\\DoctorSliderController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAvwEUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:28:46.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Medicio.Presentation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFoBAAAAAAAAAADgv3MBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T07:27:53.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Medicio.Presentation\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T07:27:24.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Medicio.Presentation\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T07:27:12.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Medicio.Presentation\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T07:26:41.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Medicio.Presentation\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACcBAAAAAAAAAAAowFsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T07:26:36.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Medicio.Presentation\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:26:15.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Medicio.Presentation\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:22:11.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Medicio.Presentation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAALkBAAAAAAAAAAAAAMwBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T07:22:01.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Medicio.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAFEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T07:20:36.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Medicio.Presentation\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-17T07:07:28.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Medicio.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Medicio.Presentation\\Program.cs",
+              "RelativeToolTip": "Medicio.Presentation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:02:10.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240517070105_createDoctorTable.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\Migrations\\20240517070105_createDoctorTable.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Medicio.Persistence\\Migrations\\20240517070105_createDoctorTable.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\Migrations\\20240517070105_createDoctorTable.cs",
+              "RelativeToolTip": "Infrastructure\\Medicio.Persistence\\Migrations\\20240517070105_createDoctorTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:01:05.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Core\\Medicio.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Medicio.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Core\\Medicio.Domain\\Models\\User.cs",
+              "RelativeToolTip": "Core\\Medicio.Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:59:38.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240517065621_InitialCreatedOCTORSsLIDER.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\Migrations\\20240517065621_InitialCreatedOCTORSsLIDER.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Medicio.Persistence\\Migrations\\20240517065621_InitialCreatedOCTORSsLIDER.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\Migrations\\20240517065621_InitialCreatedOCTORSsLIDER.cs",
+              "RelativeToolTip": "Infrastructure\\Medicio.Persistence\\Migrations\\20240517065621_InitialCreatedOCTORSsLIDER.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:56:21.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240517065404_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\Migrations\\20240517065404_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Medicio.Persistence\\Migrations\\20240517065404_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\Migrations\\20240517065404_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Medicio.Persistence\\Migrations\\20240517065404_InitialCreate.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:54:05.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorServices.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\Concretes\\DoctorServices.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Medicio.Persistence\\Concretes\\DoctorServices.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\Concretes\\DoctorServices.cs",
+              "RelativeToolTip": "Infrastructure\\Medicio.Persistence\\Concretes\\DoctorServices.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:28:06.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Core\\Medicio.Application\\Abstractions\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "Core\\Medicio.Application\\Abstractions\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Core\\Medicio.Application\\Abstractions\\IDoctorService.cs",
+              "RelativeToolTip": "Core\\Medicio.Application\\Abstractions\\IDoctorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:28:03.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DoctorSlider.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Core\\Medicio.Domain\\Models\\DoctorSlider.cs",
+              "RelativeDocumentMoniker": "Core\\Medicio.Domain\\Models\\DoctorSlider.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Core\\Medicio.Domain\\Models\\DoctorSlider.cs",
+              "RelativeToolTip": "Core\\Medicio.Domain\\Models\\DoctorSlider.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:27:56.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Medicio.Domain",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Core\\Medicio.Domain\\Medicio.Domain.csproj",
+              "RelativeDocumentMoniker": "Core\\Medicio.Domain\\Medicio.Domain.csproj",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Core\\Medicio.Domain\\Medicio.Domain.csproj",
+              "RelativeToolTip": "Core\\Medicio.Domain\\Medicio.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T06:27:50.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Medicio.Persistence\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Medicio\\Infrastructure\\Medicio.Persistence\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Medicio.Persistence\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:25:31.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
